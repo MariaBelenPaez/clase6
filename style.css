@@ -1,0 +1,29 @@
+                          .seccion-principal {
+                              background-color: #F5F5F5;
+                              height: 210px;
+                              width: 260px;
+                              display: inline-block;
+                              margin: 6px;
+                              box-sizing: border-box;
+                              padding: 50px 20px;
+                              margin: 15px;
+                              border: 1px solid #F8F8FF;
+                              border-radius: 10px;
+                              text-align: center;
+                          }
+                          
+                          .contenedor {
+                              margin-top: 50px;
+                              text-align: center;
+                              font-weight: 700;
+                          }
+                          
+                          .imagen {
+                              width: 100px;
+                              height: 110px;
+                          }
+                          
+                          .parrafo {
+                              text-align: center;
+                              font-size: 20px;
+                          }
